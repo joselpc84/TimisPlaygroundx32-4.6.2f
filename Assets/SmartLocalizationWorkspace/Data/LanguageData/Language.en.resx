@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="bote" xml:space="preserve">
+		<value>boat</value>
+	</data>
+	<data name="Cargando" xml:space="preserve">
+		<value>loading ...</value>
+	</data>
+	<data name="carro" xml:space="preserve">
+		<value>car</value>
+	</data>
+	<data name="cohete" xml:space="preserve">
+		<value>rocket</value>
+	</data>
+	<data name="creditosLetra" xml:space="preserve">
+		<value>credits</value>
+	</data>
+	<data name="cupcake" xml:space="preserve">
+		<value>cupcake</value>
+	</data>
+	<data name="flor" xml:space="preserve">
+		<value>flower</value>
+	</data>
+	<data name="Foto_Title_Galeria" xml:space="preserve">
+		<value>gallery</value>
+	</data>
+	<data name="Foto_Title_Plantilla" xml:space="preserve">
+		<value>pick your template</value>
+	</data>
+	<data name="Foto_Title_Tomar" xml:space="preserve">
+		<value>take photo</value>
+	</data>
+	<data name="fresa" xml:space="preserve">
+		<value>strawberry</value>
+	</data>
+	<data name="Gente_Creditos" xml:space="preserve">
+		<value>executive producer:
+arieh rosales
+
+//--//
+
+project management:
+jose l pérez cabello
+gustavo jiménez
+
+//--//
+
+lead game programming:
+luis alejandro vieira
+
+//--//
+
+game designer:
+gustavo jiménez
+jose l pérez cabello
+luis alejandro vieira
+
+//--//
+
+game producer:
+gustavo jiménez
+jose l pérez Cabello
+
+//--//
+
+concept development:
+gustavo jiménez
+jose l pérez cabello
+james weinreb
+
+//--//
+
+illustrations:
+james weinreb
+veronica apolinar
+
+//--//
+
+3d modeling:
+karem yamin
+oriana san miguel
+idoia de brito
+ana gil
+simón garcia
+raymond diaz
+veronica apolinar
+
+//--//
+
+rigging:
+gustavo jiménez
+ana gil
+
+//--//
+
+3d animation:
+gustavo jiménez
+ana gil
+raymond diaz
+
+//--//
+
+2d animation:
+james weinreb
+
+//--//
+
+sound designer:
+francisco maciel
+
+//--//
+
+press:
+luanda caleca
+claudia constantini
+harianned chaurel
+
+//--//
+
+social media:
+axel pérez
+
+//--//
+
+accounts executive:
+axel pérez
+
+//--//
+
+copyrighter:
+verónica Colmenares
+
+//--//
+
+game testers:
+santiago lazo
+raquel lazo
+axel pérez
+mirna cabello
+liliana israel
+albert rosales</value>
+	</data>
+	<data name="[type=GAME_OBJECT]IntroObjAtlas" xml:space="preserve">
+		<value>d4003087b87bd4c7eb09649396b3bbc2</value>
+	</data>
+	<data name="lazo" xml:space="preserve">
+		<value>tie</value>
+	</data>
+	<data name="[type=GAME_OBJECT]LoLograsteSprite" xml:space="preserve">
+		<value>ee4973eb988f4410a8d69cd926660125</value>
+	</data>
+	<data name="Memoria_Atras" xml:space="preserve">
+		<value>back</value>
+	</data>
+	<data name="[type=GAME_OBJECT]Memoria_Intro_Atras" xml:space="preserve">
+		<value>0c941b6e301894fb4b73007ebf71764f</value>
+	</data>
+	<data name="[type=GAME_OBJECT]Memoria_Intro_Dificil" xml:space="preserve">
+		<value>2d0dbb684d37a448d955aa357205a225</value>
+	</data>
+	<data name="[type=GAME_OBJECT]Memoria_Intro_Dificultad" xml:space="preserve">
+		<value>7c3db048724ab4ebf9c22a88e34ac9e0</value>
+	</data>
+	<data name="[type=GAME_OBJECT]Memoria_Intro_Facil" xml:space="preserve">
+		<value>3674e69c95548479194bcdb3beaa82fb</value>
+	</data>
+	<data name="[type=GAME_OBJECT]Memoria_Intro_Titulo" xml:space="preserve">
+		<value>df36263e8f6774b2db5f846664d768a7</value>
+	</data>
+	<data name="[type=GAME_OBJECT]Memoria_Reiniciar" xml:space="preserve">
+		<value>4e398adcc7bb7483491a87307eb461d4</value>
+	</data>
+	<data name="Memoria_Tutorial_0" xml:space="preserve">
+		<value>tati likes to share, she will help you to play quicker by giving you a free pair.</value>
+	</data>
+	<data name="Memoria_Tutorial_1" xml:space="preserve">
+		<value>tica freezes the clock and will give you extra time to keep playing.</value>
+	</data>
+	<data name="Memoria_Tutorial_2" xml:space="preserve">
+		<value>tico and his tricks will let you take a peek under a row or column you choose.</value>
+	</data>
+	<data name="Memoria_Tutorial_3" xml:space="preserve">
+		<value>if you have any object open timi will give you some leads to find its pair.</value>
+	</data>
+	<data name="Memoria_Tutorial_4" xml:space="preserve">
+		<value>topi helps you to get a big score, for a brief time you will have double the points per pair.</value>
+	</data>
+	<data name="pelota" xml:space="preserve">
+		<value>ball</value>
+	</data>
+	<data name="robot" xml:space="preserve">
+		<value>robot</value>
+	</data>
+	<data name="[type=GAME_OBJECT]SetFotografico" xml:space="preserve">
+		<value>62f7ac1139bc4420aa8cfc77a5186b5b</value>
+	</data>
+	<data name="tati" xml:space="preserve">
+		<value>tati</value>
+	</data>
+	<data name="tica" xml:space="preserve">
+		<value>tica</value>
+	</data>
+	<data name="tico" xml:space="preserve">
+		<value>tico</value>
+	</data>
+	<data name="[type=GAME_OBJECT]TiempoFueraSprite" xml:space="preserve">
+		<value>42a5b939d0dd144ee81b8686405512b0</value>
+	</data>
+	<data name="timi" xml:space="preserve">
+		<value>timi</value>
+	</data>
+	<data name="topi" xml:space="preserve">
+		<value>topi</value>
+	</data>
+	<data name="varita" xml:space="preserve">
+		<value>wand</value>
+	</data>
+	<data name="[type=GAME_OBJECT]VictoriaSprite" xml:space="preserve">
+		<value>ff2c4fd1a6ea740afa993f15813813a6</value>
+	</data>
+	<data name="[type=GAME_OBJECT]VuelveIntertarSprite" xml:space="preserve">
+		<value>8c9879a76724c4ce4b461a43ee037f03</value>
+	</data>
+</root>

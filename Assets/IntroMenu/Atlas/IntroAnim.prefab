@@ -1,0 +1,384 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: IntroAnim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: b99480a1ddcc340a6a363421bdbcb8f0, type: 2}
+  mSprites:
+  - name: intro01
+    x: 1024
+    y: 1350
+    width: 619
+    height: 254
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 16
+    paddingRight: 5
+    paddingTop: 47
+    paddingBottom: 59
+  - name: intro02
+    x: 578
+    y: 933
+    width: 597
+    height: 233
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 22
+    paddingTop: 62
+    paddingBottom: 65
+  - name: intro03
+    x: 1390
+    y: 1823
+    width: 578
+    height: 225
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 25
+    paddingRight: 37
+    paddingTop: 66
+    paddingBottom: 69
+  - name: intro04
+    x: 1370
+    y: 1132
+    width: 577
+    height: 217
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 42
+    paddingTop: 70
+    paddingBottom: 73
+  - name: intro05
+    x: 333
+    y: 1256
+    width: 577
+    height: 217
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 42
+    paddingTop: 70
+    paddingBottom: 73
+  - name: intro06
+    x: 0
+    y: 602
+    width: 577
+    height: 217
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 42
+    paddingTop: 70
+    paddingBottom: 73
+  - name: intro07
+    x: 0
+    y: 1038
+    width: 577
+    height: 217
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 42
+    paddingTop: 70
+    paddingBottom: 73
+  - name: intro08
+    x: 578
+    y: 715
+    width: 577
+    height: 217
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 42
+    paddingTop: 70
+    paddingBottom: 73
+  - name: intro09
+    x: 0
+    y: 820
+    width: 577
+    height: 217
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 42
+    paddingTop: 70
+    paddingBottom: 73
+  - name: intro10
+    x: 1213
+    y: 1605
+    width: 577
+    height: 217
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 42
+    paddingTop: 70
+    paddingBottom: 73
+  - name: intro11
+    x: 446
+    y: 1474
+    width: 577
+    height: 217
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 42
+    paddingTop: 70
+    paddingBottom: 73
+  - name: intro12
+    x: 1176
+    y: 914
+    width: 577
+    height: 217
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 21
+    paddingRight: 42
+    paddingTop: 70
+    paddingBottom: 73
+  - name: intro13
+    x: 0
+    y: 1840
+    width: 550
+    height: 208
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 34
+    paddingRight: 56
+    paddingTop: 75
+    paddingBottom: 77
+  - name: intro14
+    x: 1156
+    y: 722
+    width: 509
+    height: 191
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 65
+    paddingRight: 66
+    paddingTop: 90
+    paddingBottom: 79
+  - name: intro15
+    x: 911
+    y: 1167
+    width: 458
+    height: 182
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 95
+    paddingRight: 87
+    paddingTop: 99
+    paddingBottom: 79
+  - name: intro16
+    x: 959
+    y: 1872
+    width: 430
+    height: 176
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 111
+    paddingRight: 99
+    paddingTop: 104
+    paddingBottom: 80
+  - name: intro17
+    x: 800
+    y: 1704
+    width: 412
+    height: 167
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 129
+    paddingRight: 99
+    paddingTop: 107
+    paddingBottom: 86
+  - name: intro18
+    x: 0
+    y: 1482
+    width: 335
+    height: 165
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 164
+    paddingRight: 141
+    paddingTop: 100
+    paddingBottom: 95
+  - name: intro19
+    x: 0
+    y: 1317
+    width: 332
+    height: 164
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 161
+    paddingRight: 147
+    paddingTop: 102
+    paddingBottom: 94
+  - name: intro20
+    x: 551
+    y: 1892
+    width: 266
+    height: 156
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 217
+    paddingRight: 157
+    paddingTop: 119
+    paddingBottom: 85
+  - name: intro21
+    x: 231
+    y: 1678
+    width: 214
+    height: 161
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 225
+    paddingRight: 201
+    paddingTop: 92
+    paddingBottom: 107
+  - name: intro22
+    x: 818
+    y: 1932
+    width: 140
+    height: 116
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 432
+    paddingRight: 68
+    paddingTop: 172
+    paddingBottom: 72
+  - name: intro23
+    x: 0
+    y: 1648
+    width: 230
+    height: 191
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 381
+    paddingRight: 29
+    paddingTop: 155
+    paddingBottom: 14
+  - name: intro24
+    x: 551
+    y: 1692
+    width: 248
+    height: 199
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 374
+    paddingRight: 18
+    paddingTop: 148
+    paddingBottom: 13
+  - name: intro25
+    x: 1791
+    y: 1646
+    width: 228
+    height: 176
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 388
+    paddingRight: 24
+    paddingTop: 165
+    paddingBottom: 19
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+  mCoordinates: 0
+  sprites: []
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

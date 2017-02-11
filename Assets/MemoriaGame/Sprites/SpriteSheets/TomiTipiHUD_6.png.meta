@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 11dfdf324acba4dfaab7117910c18ffc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: combox2_1
+    21300002: combox4_1
+    21300004: combox4_12_definit
+    21300006: combox4_7
+    21300008: power_up_icon_tica
+    21300010: power_up_icon_tica_off
+    21300012: timer_base_estadoamarillo_06
+    21300014: timer_base_estadoamarillo_07
+    21300016: timer_base_estadorojo_01
+    21300018: timer_base_estadorojo_03
+    21300020: timer_base_estadorojo_04
+    21300022: timer_base_estadorojo_06
+    21300024: timer_base_estadorojo_07
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: combox2_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 147
+        width: 353
+        height: 191
+      alignment: 9
+      pivot: {x: .509914994, y: .528795838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: combox4_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 575
+        width: 508
+        height: 220
+      alignment: 9
+      pivot: {x: .505905509, y: .454545468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: combox4_12_definit
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 797
+        width: 500
+        height: 225
+      alignment: 9
+      pivot: {x: .54400003, y: .462222219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: combox4_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 822
+        width: 385
+        height: 200
+      alignment: 9
+      pivot: {x: .672727287, y: .474999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power_up_icon_tica
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 389
+        width: 236
+        height: 190
+      alignment: 9
+      pivot: {x: .506355941, y: .492105275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power_up_icon_tica_off
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 630
+        width: 236
+        height: 190
+      alignment: 9
+      pivot: {x: .506355941, y: .492105275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timer_base_estadoamarillo_06
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 347
+        width: 220
+        height: 226
+      alignment: 9
+      pivot: {x: .518181801, y: .530973434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timer_base_estadoamarillo_07
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 209
+        height: 223
+      alignment: 9
+      pivot: {x: .545454562, y: .538116574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timer_base_estadorojo_01
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 119
+        width: 217
+        height: 226
+      alignment: 9
+      pivot: {x: .525345623, y: .530973434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timer_base_estadorojo_03
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 340
+        width: 216
+        height: 239
+      alignment: 9
+      pivot: {x: .527777791, y: .502092063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timer_base_estadorojo_04
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 337
+        width: 219
+        height: 236
+      alignment: 9
+      pivot: {x: .520547926, y: .508474588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timer_base_estadorojo_06
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 165
+        width: 224
+        height: 222
+      alignment: 9
+      pivot: {x: .508928597, y: .540540516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timer_base_estadorojo_07
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 581
+        width: 222
+        height: 239
+      alignment: 9
+      pivot: {x: .513513505, y: .502092063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

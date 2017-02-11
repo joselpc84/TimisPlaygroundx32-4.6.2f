@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{33522A29-D835-3289-D317-D4414BA20584}") = "MemoriaGame", "Assembly-CSharp-vs.csproj", "{7F341920-F654-E577-9905-627E4B2D93C8}"
+EndProject
+Project("{33522A29-D835-3289-D317-D4414BA20584}") = "MemoriaGame", "Assembly-CSharp-Editor-vs.csproj", "{1C7D5399-0E1E-EF43-2AC7-10D4C8DD2E02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F341920-F654-E577-9905-627E4B2D93C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F341920-F654-E577-9905-627E4B2D93C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F341920-F654-E577-9905-627E4B2D93C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F341920-F654-E577-9905-627E4B2D93C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7D5399-0E1E-EF43-2AC7-10D4C8DD2E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7D5399-0E1E-EF43-2AC7-10D4C8DD2E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7D5399-0E1E-EF43-2AC7-10D4C8DD2E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7D5399-0E1E-EF43-2AC7-10D4C8DD2E02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+								GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

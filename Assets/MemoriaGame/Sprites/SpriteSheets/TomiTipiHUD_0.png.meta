@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: 22ba6e688d38f45e996f5e2aa8b44a6e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: base_nombres_visor_de_objetos
+    21300002: combox4_4
+    21300004: combox4_5
+    21300006: indicador_de_pares
+    21300008: power_up_icon_tati
+    21300010: power_up_icon_tati_off
+    21300012: power_up_icon_tico
+    21300014: power_up_icon_tico_off
+    21300016: power_up_icon_timi
+    21300018: power_up_icon_topi
+    21300020: power_up_icon_topi_off
+    21300022: reiniciar-Reiniciar_escrito
+    21300024: reiniciar-reiniciarForward_05
+    21300026: timer_base_estadorojo_02
+    21300028: timer_pointer
+    21300030: Base_score
+    21300032: comboplus-comboxplus_2
+    21300034: combox4_3
+    21300036: power_up_icon_timi_off
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Base_score
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 624
+        height: 159
+      alignment: 9
+      pivot: {x: .484775633, y: .484276742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: comboplus-comboxplus_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 96
+        width: 501
+        height: 169
+      alignment: 9
+      pivot: {x: .502994001, y: .384615391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: combox4_3
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 82
+        width: 322
+        height: 183
+      alignment: 9
+      pivot: {x: .41614908, y: .502732217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: combox4_4
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 11
+        width: 241
+        height: 116
+      alignment: 9
+      pivot: {x: .502074718, y: .646551728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: combox4_5
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 26
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: 1.72666669, y: .633333325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: indicador_de_pares
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 129
+        width: 388
+        height: 452
+      alignment: 9
+      pivot: {x: .467783511, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power_up_icon_tati
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1464
+        width: 178
+        height: 183
+      alignment: 9
+      pivot: {x: .488764048, y: .464480877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power_up_icon_tati_off
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1279
+        width: 178
+        height: 183
+      alignment: 9
+      pivot: {x: .488764048, y: .464480877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power_up_icon_tico
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 178
+        width: 186
+        height: 198
+      alignment: 9
+      pivot: {x: .5, y: .49242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power_up_icon_tico_off
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1848
+        width: 186
+        height: 198
+      alignment: 9
+      pivot: {x: .5, y: .49242425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power_up_icon_timi
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1100
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: .483050853, y: .491525412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power_up_icon_timi_off
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 921
+        width: 177
+        height: 177
+      alignment: 9
+      pivot: {x: .483050853, y: .491525412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power_up_icon_topi
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 378
+        width: 176
+        height: 203
+      alignment: 9
+      pivot: {x: .494318187, y: .512315273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: power_up_icon_topi_off
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1649
+        width: 176
+        height: 197
+      alignment: 9
+      pivot: {x: .494318187, y: .497461915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reiniciar-Reiniciar_escrito
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 267
+        width: 1452
+        height: 314
+      alignment: 9
+      pivot: {x: .527548194, y: .496815294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: reiniciar-reiniciarForward_05
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 583
+        width: 1856
+        height: 1463
+      alignment: 9
+      pivot: {x: .5, y: .489405334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: timer_pointer
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 779
+        width: 62
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
